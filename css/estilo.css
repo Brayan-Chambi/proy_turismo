@@ -1,0 +1,20 @@
+*
+{
+    margin:15px;
+}
+body
+{
+    background-color: darkkhaki;
+    color: blueviolet;
+    font-family: Cambria;
+}
+img
+{
+    width: 250px;
+    height: 250px;
+}
+p{
+    background-color: cornsilk;
+    margin: 5px;
+    padding: 5px;
+}
